@@ -1,0 +1,29 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obsidianspork/node-by-doing.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "es6"
+  ],
+  "bugs": {
+    "url": "https://github.com/obsidianspork/node-by-doing/issues"
+  },
+  "homepage": "https://github.com/obsidianspork/node-by-doing#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {}
+}
